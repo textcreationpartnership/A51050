@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new catechisme very usefull for persons of meanest capacity and shortest memory, and for them onely composed : and since fitted to the directions concerning suspension from the Lords Supper in case of ignorance, and published / by T. Mocket ...</title>
+            <author>Mocket, Thomas, 1602-1670?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51050</idno>
+            <idno type="STC">Wing M2308</idno>
+            <idno type="STC">ESTC R43459</idno>
+            <idno type="EEBO-CITATION">27655133</idno>
+            <idno type="OCLC">ocm 27655133</idno>
+            <idno type="VID">110164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110164)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1729:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new catechisme very usefull for persons of meanest capacity and shortest memory, and for them onely composed : and since fitted to the directions concerning suspension from the Lords Supper in case of ignorance, and published / by T. Mocket ...</title>
+                  <author>Mocket, Thomas, 1602-1670?</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Christopher Meredith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms.</term>
+               <term>Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110164:1"/>
+            <p>A NEW CATECHISME: Very uſefull for perſons of meaneſt capacity and ſhort<g ref="char:EOLhyphen"/>eſt memory, and for them onely compoſed:</p>
+            <p>And ſince fitted to the Directi<g ref="char:EOLhyphen"/>ons concerning ſuſpenſion from the Lords Supper, in caſe of ig<g ref="char:EOLhyphen"/>norance, and publiſhed.</p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 28 10.</hi>
+               </bibl>
+               <p>Precept must be upon precept, precept upon precept, line upon line, line upon line, here a little, and there a little.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvo
+19.2.</hi>
+               </bibl>
+               <p>That the minde be without knowledge, it is not good.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 Theſ. 17, 8.</hi>
+               </bibl>
+               <p>The Lord Ieſus ſhall be revealed from heaven with his mighty Angels, in flaming fire, taking vengeance on them that know not God, and that obey not the Goſpel of our Lord Ieſus Chriſt.</p>
+            </q>
+            <p>By <hi>T. Mocket,</hi> Maſter of Arts.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>A. M.</hi> for <hi>Christopher Meredith,</hi> at the Crane in <hi>Pauls</hi> Church-yard, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:110164:2"/>
+            <pb n="1" facs="tcp:110164:2"/>
+            <head>A NEW CATECHISME.</head>
+            <p>
+               <label>Queſtion.</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat think you of the Bible or holy Scri<g ref="char:EOLhyphen"/>ptures?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are the very Word of God, and moſt infallibly true, 2 <hi>Tim.</hi> 3.16, 17.</p>
+            <p>Q. <hi>What is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is Almighty, the maker <pb n="2" facs="tcp:110164:3"/>and governour of all things, <hi>Gen.</hi> 11. &amp; 17. 1. <hi>Pſal.</hi>
+103.19.</p>
+            <p>
+               <hi>Q. How many Gods be there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Only one God and three perſons, the Father, Sonne, and Holy Ghoſt, <hi>Eph<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.</hi> 4.6. <hi>Mat.</hi> 28.19.</p>
+            <p>
+               <hi>Q. How did God make man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Marvellous holy and happy, <hi>Eccleſ.</hi> 7.29
+<hi>or</hi> 31.</p>
+            <p>
+               <hi>Q. Why ſay you man was made holy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he was made after the image of God, in knowledge, righteouſneſſe, and true holineſſe, <hi>Gen.</hi> 1.26.
+<hi>Col.</hi> 3 10. <hi>Epheſ.</hi> 4.23, 24.</p>
+            <p>Q. <hi>Did man continue in that good eſtate?</hi>
+            </p>
+            <p>A. No, but he fell away by the inticement of Satan, <hi>Gen.</hi>
+3.1, <hi>&amp;c.</hi> 1 <hi>Tim.</hi> 2.14.</p>
+            <p>Q <hi>What was the ſinne he did commit?</hi>
+            </p>
+            <pb n="3" facs="tcp:110164:3"/>
+            <p>
+               <hi>A.</hi> Diſobedience againſt God, in eating of the forbidden fruit, <hi>Gen.</hi> 3.6. <hi>Rom.</hi> 5.12, 14.</p>
+            <p>Q. <hi>What is the eſtate of all men by nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Exceeding ſinfull and miſe<g ref="char:EOLhyphen"/>rable,
+<hi>Epheſ.</hi> 2.1.2.</p>
+            <p>Q <hi>How came we to be ſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By <hi>Adams</hi> ſinne and fall, for we were all in his loyns, <hi>Rom.</hi> 5.12. 1 <hi>Cor.</hi> 15.22.</p>
+            <p>Q. <hi>How elſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By our own tranſgreſſing the Commandements of God. And ſo do all that are of years of diſcretion.</p>
+            <p>Q. <hi>Which be they, and how many?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ten, <hi>Exod.</hi> 20.1. <hi>Deut.</hi> 10.4.</p>
+            <p n="1">1. Thou ſhalt have none o<g ref="char:EOLhyphen"/>ther gods but me.</p>
+            <p n="2">2. Thou ſhalt not make to thy ſelf any graven image, nor
+<pb n="4" facs="tcp:110164:4"/>the likeneſſe of any thing that is in Heaven above, or in the earth beneath, or in the waters under the earth. Thou ſhalt not bow down to them, nor worſhip them: for I the Lord thy God am a jealous God, and viſit the ſinnes of the fa<g ref="char:EOLhyphen"/>thers upon the children, unto the third and fourth generati<g ref="char:EOLhyphen"/>on of them that hate me, and ſhew mercy unto thouſands of them that love me and keep my commandements.</p>
+            <p n="3">3. Thou ſhalt not take the Name of the Lord thy God in vain, for the Lord will not hold him guiltleſſe that taketh his Name in vain.</p>
+            <p n="4">4. Remember that thou keep holy the Sabbath-day. Six
+<pb n="5" facs="tcp:110164:4"/>dayes ſhalt thou labour and doe all that thou haſt to doe, but the ſeventh day is the Sab<g ref="char:EOLhyphen"/>bath of the Lord thy God. In it thou ſhalt doe no manner of worke, thou, and thy ſonne, and thy daughter, thy man-ſer<g ref="char:EOLhyphen"/>vant, and thy maid-ſervant, thy cattel, and the ſtranger that is within thy gates. For in ſix dayes the Lord made heaven and earth, the ſea, and all that in them is, and reſted the ſe<g ref="char:EOLhyphen"/>venth day; Wherefore the Lord bleſſed the ſeventh day, and hallowed it.</p>
+            <p n="5">5. Honour thy father and thy mother, that thy dayes may be long in the land which the Lord thy God giveth thee,</p>
+            <p n="6">6. Thou ſhalt doe no murder.</p>
+            <pb n="6" facs="tcp:110164:5"/>
+            <p n="7">7. Thou ſhalt not commit adultery.</p>
+            <p n="8">8. Thou ſhalt not ſteal.</p>
+            <p n="9">9. Thou ſhalt not beare falſe witneſſe againſt thy neigh<g ref="char:EOLhyphen"/>bour.</p>
+            <p n="10">10. Thou ſhalt not covet thy neighbours houſe, thou ſhalt not covet thy neighbours wife, nor his ſervant, nor his maid, nor his Oxe, nor his Aſſe, nor any thing that is his.</p>
+            <p>
+               <hi>Q. Can you keep theſe Comman<g ref="char:EOLhyphen"/>dements?</hi>
+            </p>
+            <p>A. No, I break them daily, in thought, word and deed,
+<hi>Iam,</hi> 3.2. <hi>Eccleſ.</hi> 7.20.</p>
+            <p>
+               <hi>Q. What puniſhment is due unto you, and all men by reaſon of ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Everlaſting damnation both in ſoul and body, beſide all the mi<g ref="char:EOLhyphen"/>ſeries of this life, <hi>Rom.</hi> 6.23.</p>
+            <pb n="7" facs="tcp:110164:5"/>
+            <p>Q. <hi>How ſhall you eſcape this mi<g ref="char:EOLhyphen"/>ſery?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Onely by Jeſus Chriſt, <hi>Act.</hi> 4.12.</p>
+            <p>Q. <hi>What is Ieſus Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Eternall Sonne of God, <hi>Matth.</hi> 17.5.
+<hi>Ioh.</hi> 1.18.</p>
+            <p>Q. <hi>What did he doe that you think to be ſaved by him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He ſuffered death to ſatisfie Gods juſtice for mans ſinnes; alſo he did perfectly fulfill the Law of God for us,
+<hi>Rom.</hi> 4.25. <hi>Mat.</hi> 5.17.</p>
+            <p>Q. <hi>Being God, how could he dye?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He was both God and man in one perſon, <hi>Ioh.</hi>
+1.14.</p>
+            <p>Q. <hi>How ſhall you be made parta<g ref="char:EOLhyphen"/>ker of Chriſt and all his benefits, and ſo be ſaved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By faith alone, <hi>Ioh.</hi> 3.16. <hi>Mark.</hi>
+16.16.</p>
+            <p>Q. <hi>Being guilty of ſinne, and there<g ref="char:EOLhyphen"/>fore ſubject to eternall damnation, how doe you think to be juſtified, and <pb n="8" facs="tcp:110164:6"/>ſo freed from ſinne and damnation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the righteouſneſſe of Chriſt alone,
+<hi>Rom.</hi> 3.20, 24, 28.</p>
+            <p>Q. <hi>How ſhall we be made partakers of Chriſts righteouſneſſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By Faith in Chriſt, <hi>Rom.</hi> 3.28.</p>
+            <p>Q <hi>What is Faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a grace of God, where<g ref="char:EOLhyphen"/>by we beleeve and truſt in God for remiſſion of ſinnes and everlaſting life, according to the promiſe of the Goſpel.</p>
+            <p>Q. <hi>What is the promiſe of the Go<g ref="char:EOLhyphen"/>ſpel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He that beleeveth ſhall be ſaved: and he that beleeveth not ſhall be damned, <hi>Mark</hi> 16.16. <hi>Ioh.</hi> 3.16.</p>
+            <p>
+               <hi>Q. What are you to beleeve? Re<g ref="char:EOLhyphen"/>hearſe the ſumme and articles of your faith?</hi>
+            </p>
+            <p>A. I beleeve in God the Fa<g ref="char:EOLhyphen"/>ther Almighty, maker of hea<g ref="char:EOLhyphen"/>ven
+<pb n="9" facs="tcp:110164:6"/>and earth. And in Ieſus Chriſt his onely Sonne our Lord, which was conceived by the holy Ghoſt, borne of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pontius Pilate,</hi> was crucified, dead and buried, he deſcended into hell, the third day he roſe again from the dead, he aſcended into heaven, and ſit<g ref="char:EOLhyphen"/>teth on the right hand of God the Father Allmighty, from thence he ſhall come to judge the quick and the dead. I be<g ref="char:EOLhyphen"/>leeve in the holy Ghoſt, the holy Catholike Church, the communion of Saints, the for<g ref="char:EOLhyphen"/>giveneſſe of ſinnes, the reſur<g ref="char:EOLhyphen"/>rection of the body, and the life everlaſting. Amen.</p>
+            <p>Q. <hi>What is meant by deſcended into hell?</hi>
+            </p>
+            <pb n="10" facs="tcp:110164:7"/>
+            <p>
+               <hi>A.</hi> Not that he went down in<g ref="char:EOLhyphen"/>to hell, but that he remained a while in the ſtate of the dead, the body in the grave, and the ſoul in Paradiſe or Heaven. Or, that he ſuffered torments aequivalent to the pains of hell, and ſuch as no meer mortall man could ſuffer.</p>
+            <p>Q. <hi>How come men by faith? is it borne and bred in us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, the holy Ghoſt doth worke faith in the heart by the preaching of the Word. <hi>Rom.</hi> 10.14, 17.</p>
+            <p>Q. <hi>What means hath God appoint<g ref="char:EOLhyphen"/>ed to increaſe faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The preaching of the Word, the Sacraments, and earneſt prayer.</p>
+            <p>Q <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A ſeal of the Covenant of grace, <hi>Rom.</hi>
+4.11.</p>
+            <p>
+               <hi>Q. What is the covenant of grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a covenant of ſaving man, by Faith in Jeſus Chriſt, <pb n="11" facs="tcp:110164:7"/>wherein God promiſes to be our God, and we do binde our ſelves to be a faithfull, obedient people unto him, <hi>Ier.</hi> 31.33.</p>
+            <p>
+               <hi>Q. How many Sacraments are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two only, Baptiſme. and the Lords Supper,
+<hi>Mat.</hi> 28.19. &amp; 26.26.</p>
+            <p>Q. <hi>What doth Baptiſme ſignifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The waſhing away of ſinne from the ſoul by the blood of Jeſus Chriſt, and ſo our juſtification and ſanctification,
+<hi>Mark.</hi> 1.4. <hi>Act.</hi> 2.38. <hi>Tit.</hi> 3.5.</p>
+            <p>
+               <hi>Q. What doth Baptiſme binde you to doe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To beleeve in Chriſt, to leave all ſinne, and live holily, according to the commandements of God, <hi>Act.</hi> 8.37.
+<hi>Mat.</hi> 3.8. <hi>Rom</hi> 6.4.</p>
+            <p>
+               <hi>Q. What doth the bread and wine ſignifie in the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The body and blood of Chriſt <pb n="12" facs="tcp:110164:8"/>crucified, and all the benifits of his death and ſuffering, <hi>Mat.</hi> 26.26.
+<hi>and</hi> 28.</p>
+            <p>Q. <hi>What doth the breaking of the bread, and pouring out of the wine in the Sacrament ſignifi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That his body was broken, and his bloud ſhed for our ſinnes, <hi>Rom.</hi> 4 25. 1 <hi>Cor.</hi> 11.24, 25.</p>
+            <p>Q <hi>How muſt we receive Chriſt and all his benefi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in the Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Only by faith, as the hand and the mouth of the ſoul to receive and feed upon Chriſt ſpiritually, <hi>Iohn.</hi> 1.12.</p>
+            <p>Q <hi>What is the danger of unwor<g ref="char:EOLhyphen"/>thy receiving?</hi>
+            </p>
+            <p>A. Vnworthy receivers are guil<g ref="char:EOLhyphen"/>ty of the prophanation of the body and blood of Chriſt, and ſo make themſelves guilty of damnation, 1
+<hi>Cor.</hi> 11.27.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9,
+30.</p>
+            <p>Q. <hi>What then is required to the right receiving of the Lords Supper?</hi>
+            </p>
+            <pb n="13" facs="tcp:110164:8"/>
+            <p>A. Five things, Knowledge, Faith, Repentance, Love to God and our neighbour, and a hunger<g ref="char:EOLhyphen"/>ing after Chriſt in the Sacrament.</p>
+            <p>Q <hi>What muſt you do when you rae to come to the Lords Table?</hi>
+            </p>
+            <p>A. Examine my ſinnes, alſo whether I have ſaving knowledge, faith, repentance, love, and an hungring after Chriſt in the Sacra<g ref="char:EOLhyphen"/>ment, 1.
+<hi>Cor.</hi> 11.28</p>
+            <p>
+               <hi>Q. How may you know that you have aright knowledge of God, and of your ſelf?</hi>
+            </p>
+            <p>A. When I ſee and feel my ſelf to be a loſt creature without Chriſt, deſire Chriſt above all things in the world, and am carefull to o<g ref="char:EOLhyphen"/>bey God in all things out of con<g ref="char:EOLhyphen"/>ſcience to his command.</p>
+            <p>
+               <hi>Q How ſhall you know whether you have true faith or no?</hi>
+            </p>
+            <p>A. My faith is a ſaving faith. 1. If I prize Chriſt above all things. <pb n="14" facs="tcp:110164:9"/>2. If I love God ſincerely for him<g ref="char:EOLhyphen"/>ſelf, and 3. be carefull to live holily according to the will of God.</p>
+            <p>
+               <hi>Q. How ſhall you know that you do truly repent of your ſinnes?</hi>
+            </p>
+            <p>A. 1. When I am heartily grie<g ref="char:EOLhyphen"/>ved for my ſins, becauſe ſins, and diſpleaſing to God, 2. When I hate and abhorre them, 3. Doe alſo leave them, 4. By my feare to ſin againſt God, and 5. By my care to live holily in all my wayes.</p>
+            <p>
+               <hi>Q. How ſhall you know that you doe truly love God?</hi>
+            </p>
+            <p>A. By my care to keep his Com<g ref="char:EOLhyphen"/>mandements, and by my hearty love to the godly, 1 <hi>Ioh.</hi> 5.1, and 3.</p>
+            <p>
+               <hi>Q. How ſhall you know that you love the godly as you ought?</hi>
+            </p>
+            <p>A. VVhen I love them chiefly for their godlineſſe and holineſſe.</p>
+            <p>
+               <hi>Q. How ſhall you know that you truly love, and are in charity with your neighbours?</hi>
+            </p>
+            <pb n="15" facs="tcp:110164:9"/>
+            <p>
+               <hi>A.</hi> By this, 1. That I do from my heart forgive my neighbour that hath wronged me. And 2. Am ready to do any office of love for him.</p>
+            <p>
+               <hi>Q. How ſhall you know whether you hunger after Chriſt in the Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By this, that I ſee my want of Chriſt, and therefore do deſire to receive the Sacrament, that I may be farther partaker of Chriſt and his grace, <hi>Mat.</hi> 5.6. <hi>Rev.</hi> 22.17.</p>
+            <p>
+               <hi>Q. Why was the Sacrament or<g ref="char:EOLhyphen"/>dained? and why do you deſire to re<g ref="char:EOLhyphen"/>ceive it?</hi>
+            </p>
+            <p>A. 1. To confirm and increaſe faith and all ſaving grace in me. 2. To keep in remembrance what Chriſt hath done and ſuffered for me, and his great love to me, and 3. To teſtifie my love to others, 1
+<hi>Cor.</hi> 11.24, 26. &amp; 12.13.</p>
+            <p>
+               <hi>Q. What muſt you doe after you have received?</hi>
+            </p>
+            <pb n="16" facs="tcp:110164:10"/>
+            <p>A. I muſt endeavour to finde in me an increaſe of faith, love and all ſaving graces, and to abound more and more in all well doing,
+<hi>Prov.</hi> 4.18.</p>
+            <p>
+               <hi>Q. Whence have we all the grace we have?</hi>
+            </p>
+            <p>A. From that fullneſſe that is in Jeſus Chriſt, by the right uſe of his ordinance.</p>
+            <p>
+               <hi>Q. What ſhall become of thoſe that do not beleeve in Ieſus Chriſt, and alſo ſorrow for their ſinnes, turne from them to the Lord, &amp; live holily?</hi>
+            </p>
+            <p>A. They ſhall ſurely periſh for ever <hi>Mark</hi> 16.16.
+<hi>Luk.</hi> 13.3 5.</p>
+            <p>
+               <hi>Q. What becomes of the ſoule after death?</hi>
+            </p>
+            <p>A. The ſouls of all the faithfull after death, do goe immediately to heaven, and there live with Chriſt in bleſſednes,
+<hi>Luk.</hi> 16.2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. &amp;
+23.43.</p>
+            <p>
+               <hi>Q. What becomes of the ſouls of the wicked after death?</hi>
+            </p>
+            <pb n="17" facs="tcp:110164:10"/>
+            <p>A. The ſouls of the wicked after death goe immediatly to hell fire, and muſt ſuffer there for ever with the divels. <hi>Luk</hi> 16.22,
+23. <hi>Mat.</hi> 25. <hi>ver.</hi> 41 &amp; 46.</p>
+            <p>
+               <hi>Q. What ſhall become of the bo<g ref="char:EOLhyphen"/>dies of all men?</hi>
+            </p>
+            <p>A. The bodies of all men ſhall by the power of God, be raiſed up again at the laſt day.</p>
+            <p>
+               <hi>Q. And what ſhall then become of them?</hi>
+            </p>
+            <p>A. They ſhall all appeare before the judgement ſeat of Chriſt, to receive according to that they have done in the body, whether it be good or evil, 2 <hi>Cor.</hi> 5.10.</p>
+            <p>
+               <hi>Q. What ſhall become of the bodies of the Godly?</hi>
+            </p>
+            <p>A. They ſhall goe into everlaſt<g ref="char:EOLhyphen"/>ing life and bleſſedneſſe, <hi>Mat.</hi> 25.34 &amp; 46.</p>
+            <p>
+               <hi>Q. What ſhall become of the wick<g ref="char:EOLhyphen"/>ed?</hi>
+            </p>
+            <pb n="18" facs="tcp:110164:11"/>
+            <p>
+               <hi>A.</hi> They ſhall goe into everlaſt<g ref="char:EOLhyphen"/>ing puniſhment,
+<hi>Matth.</hi> 25.41, and 46,</p>
+            <p>
+               <hi>Q. What rule of direction is there according to which all ought to pray?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The generall rule is the Word of God, the more ſpeciall is the Lords Prayer, <hi>Mat.</hi> 6.9.</p>
+            <p>
+               <hi>Q. Rehearſe that.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our Father which art in heaven. Hallowed be thy Name. Thy Kingdome come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our treſpaſſes, as we forgive them that treſpaſſe againſt us. And lead us not into temptati<g ref="char:EOLhyphen"/>on, but deliver usfrom evil, Amen.</p>
+            <p>
+               <hi>Q. What doth this prayer contain?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three parts, 1. a preface, the <pb n="19" facs="tcp:110164:11"/>prayer it ſelf, and the concluſion.</p>
+            <p>Q. <hi>Which words are the preface?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our Father which art in heaven.</p>
+            <p>Q. <hi>Which are the prayer it ſelf?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Hallowed be thy name, <hi>&amp;c.</hi>
+            </p>
+            <p>Q <hi>How many parts doth the pray<g ref="char:EOLhyphen"/>er it ſelf contain?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Six petitions, whereof the three firſt concern God, and the three laſt our ſelves, and 2, a thankſgiving.</p>
+            <p>Q. <hi>In which words is the con<g ref="char:EOLhyphen"/>cluſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the word Amen: which ſignifies ſo be it, and ſo it is.</p>
+            <p>
+               <hi>Q. Is it enough to ſerve God in publike only?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but all muſt ſerve God in private alſo, by praying unto him, thanking him for his bene<g ref="char:EOLhyphen"/>fits, and reading of his Word: alſo meditation on his word and works, and ſinging of Pſalms, are godly
+<pb n="20" facs="tcp:110164:12"/>Chriſtian private duties,
+<hi>Pſal.</hi> 55.17. <hi>Dan.</hi> 6.10. <hi>Deut.</hi> 17. 19.
+<hi>Col.</hi> 3.16.</p>
+            <p>
+               <hi>Q. And will you promiſeto doe your true endeavour, to grow in knowledge, to leave all ſinne, and walk according to the commandmnets of God as it becomes a true Chriſtian?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will, God inabling me.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110164:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
